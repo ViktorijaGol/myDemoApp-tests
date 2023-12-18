@@ -64,4 +64,4 @@ Generate test execution reports post-test run. For example, use Cucumber HTML re
 
 ## Contributors
 
-- Viktorija Golovinova (@ViktorijaGol)
+- Viktorija Golovinova [(@ViktorijaGol)](https://github.com/ViktorijaGol)

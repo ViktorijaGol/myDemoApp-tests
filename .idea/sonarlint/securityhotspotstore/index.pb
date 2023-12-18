@@ -21,7 +21,5 @@ a
 1src/test/java/steps/ProductDetailedPageSteps.java,0/9/092bba9103e8c35eda47814e8c42347303763554
 V
 &src/test/java/steps/CheckoutSteps.java,d/0/d0c78f0a83790e7818ef553f445cedb89e8728af
-7
-read.me,9/7/974fa2f920e8b6d93c39ddc82657dcc308010a8d
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

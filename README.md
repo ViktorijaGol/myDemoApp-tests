@@ -1,10 +1,10 @@
 # Automated Tests for myDemoApp
 
-This repository comprises automated tests scripted in Java using a combination of Appium, Selenium, Cucumber, JUnit, TestNG, and Gherkin for the myDemoApp Android application.
+This repository comprises automated tests scripted in Java using a combination of Appium, Selenium, Cucumber, JUnit, TestNG, and Gherkin for the ***`myDemoApp`*** Android application.
 
 ## Overview
 
-The automated tests validate various functionalities of the *`myDemoAp`*, covering aspects such as login, logout, product sorting, product details page, product exploration, and checkout processes.
+The automated tests validate various functionalities of the ***`myDemoApp`***, covering aspects such as **login, logout, product sorting, product details page, product exploration, and checkout processes.**
 
 ## Prerequisites
 
@@ -12,16 +12,16 @@ Before running the automated tests, ensure the following tools are installed:
 - **Java Development Kit (JDK) 8** or above installed
 - **Appium server** installed and running
 - **Android Studio** with Android SDK configured
-- Emulator set up with *myDemoApp* installed
+- **Emulator** set up with [**myDemoApp**](https://github.com/saucelabs/my-demo-app-rn) installed
 
 ## Setup
 
-1. Clone this repository:
+1. **Clone this repository:**
    ```bash
    git clone https://github.com/ViktorijaGol/myDemoApp-tests.git
     ```
-2. Open the project in your preferred **Java IDE (such as IntelliJ IDEA, Eclipse, etc.).**
-3. Install required dependencies by either using Maven or Gradle. Example using **Maven:**
+2. **Open** the project in your preferred ***Java IDE (such as IntelliJ IDEA, Eclipse, etc.).***
+3. **Install** required dependencies by either using Maven or Gradle. Example using **Maven:**
    ```bash
    cd myDemoApp-tests
    mvn clean install
@@ -40,15 +40,16 @@ Before running the automated tests, ensure the following tools are installed:
 ### Using Maven
 
 Run the following Maven command to execute all the tests:
+   ```bash
    mvn test
-
+   ```
 ### Using IDE
 
 Run test suites directly from the IDE by executing the Cucumber runner file **(features/login.feature or similar)** as a JUnit test.
 
 ## Test Structure
 
-Tests are structured using Cucumber (Behavior Driven Development) framework, allowing for easy readability and maintenance. Key test scenarios covered include:
+Tests are structured using **Cucumber (Behavior Driven Development)** framework, allowing for easy readability and maintenance. Key test scenarios covered include:
 
 - **Login:** Testing the login functionality with valid and invalid credentials.
 - **Logout:** Verifying the user can successfully log out from the application.

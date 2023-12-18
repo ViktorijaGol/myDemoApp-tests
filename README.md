@@ -4,7 +4,7 @@ This repository comprises automated tests scripted in Java using a combination o
 
 ## Overview
 
-The automated tests validate various functionalities of the *myDemoApp*, covering aspects such as login, logout, product sorting, product details page, product exploration, and checkout processes.
+The automated tests validate various functionalities of the *`myDemoAp`*, covering aspects such as login, logout, product sorting, product details page, product exploration, and checkout processes.
 
 ## Prerequisites
 
@@ -18,7 +18,7 @@ Before running the automated tests, ensure the following tools are installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ViktorijaGol/myDemoApp.git
+   git clone https://github.com/ViktorijaGol/myDemoApp-tests.git
     ```
 2. Open the project in your preferred **Java IDE (such as IntelliJ IDEA, Eclipse, etc.).**
 3. Install required dependencies by either using Maven or Gradle. Example using **Maven:**
